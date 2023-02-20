@@ -8039,7 +8039,7 @@ namespace Catch {
 #include <signal.h>
 
 #undef MINSIGSTKSZ
-#define MINSIGSTKSZ   16384
+#define MINSIGSTKSZ 16384
 
 namespace Catch {
 
@@ -17799,3 +17799,5 @@ using Catch::Detail::Approx;
 // end catch_reenable_warnings.h
 // end catch.hpp
 #endif // TWOBLUECUBES_SINGLE_INCLUDE_CATCH_HPP_INCLUDED
+
+
